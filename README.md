@@ -1,6 +1,6 @@
 
 ## non26
-Hi, I'm Non26
+Hi, I'm Non26.
 
 ## Play Ground
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -14,4 +14,4 @@ Hi, I'm Non26
 <br>
 
 ## Stats
-![Chanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=non26&theme=algolia&show_icons=true)
+![Chanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=non26&theme=algolia&show_icons=true&repo=algolia)
