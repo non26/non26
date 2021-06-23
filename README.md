@@ -13,8 +13,8 @@ Hi, I'm Non26.
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/919/919832.png" />
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non26&langs_count=8)
-
-
 ## Stats
 ![Chanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=non26&theme=algolia&show_icons=true&repo=algolia)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non26&langs_count=8)
